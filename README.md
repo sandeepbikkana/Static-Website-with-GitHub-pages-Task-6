@@ -7,7 +7,7 @@ This repository hosts a **static website** using [GitHub Pages](https://pages.gi
 A simple website built with **HTML** and **CSS**  that is served directly to visitors without any backend processing.
 
 ## 🌐 Live Site
-[View Website](https://YOUR_USERNAME.github.io/REPO_NAME/)
+[View Website](https://sandeepbikkana.github.io/Static-Website-with-GitHub-pages-Task-6/)
 
 ## 🚀 How it works
 - GitHub Pages takes the files from the `main` branch of this repository.
